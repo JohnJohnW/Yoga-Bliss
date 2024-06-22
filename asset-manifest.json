@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Yoga-Bliss/static/css/main.97fdd9c0.css",
-    "main.js": "/Yoga-Bliss/static/js/main.ba11419e.js",
+    "main.css": "/Yoga-Bliss/static/css/main.f321d366.css",
+    "main.js": "/Yoga-Bliss/static/js/main.126f179a.js",
     "static/js/453.6432168e.chunk.js": "/Yoga-Bliss/static/js/453.6432168e.chunk.js",
     "static/media/home_page_image.jpeg": "/Yoga-Bliss/static/media/home_page_image.8aa4b884687f18e35bc3.jpeg",
     "index.html": "/Yoga-Bliss/index.html",
-    "main.97fdd9c0.css.map": "/Yoga-Bliss/static/css/main.97fdd9c0.css.map",
-    "main.ba11419e.js.map": "/Yoga-Bliss/static/js/main.ba11419e.js.map",
+    "main.f321d366.css.map": "/Yoga-Bliss/static/css/main.f321d366.css.map",
+    "main.126f179a.js.map": "/Yoga-Bliss/static/js/main.126f179a.js.map",
     "453.6432168e.chunk.js.map": "/Yoga-Bliss/static/js/453.6432168e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97fdd9c0.css",
-    "static/js/main.ba11419e.js"
+    "static/css/main.f321d366.css",
+    "static/js/main.126f179a.js"
   ]
 }
